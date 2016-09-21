@@ -1,0 +1,6 @@
+print('AThomas Lab')
+
+print('Enter your Name')
+name = input()
+if name == 'code':
+print('Thank You')
